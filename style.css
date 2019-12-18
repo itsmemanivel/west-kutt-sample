@@ -4,7 +4,11 @@ body {
 }
 
 .text {
-    padding: 25px;
+    margin-right: -10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #C0c0c0;
+    padding: 15px;
 }
 
 .content-1 {
@@ -13,7 +17,7 @@ body {
 
 .col-sm-12 {
     margin: 10px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .img-fluid {

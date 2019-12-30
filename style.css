@@ -11,14 +11,13 @@ body {
     padding: 15px;
 }
 
-.content-1 {
-    border-right: 1px solid #C0c0c0;
-}
+
 
 .col-sm-12 {
-    margin: 10px;
-    padding: 15px;
+    margin: 2px;
+    padding: 5px;
 }
+
 
 .img-fluid {
     width: 100%;
